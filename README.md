@@ -32,7 +32,7 @@ See the [PDL API Reference Manual Getting Started section](https://CYSB2.github.
 
 ### More information
 * [Peripheral Driver Library Release Notes](./RELEASE.md)
-* [Peripheral Driver Library API Reference Manual](https://CYSB2.github.io/mtb-pdl-cat1/pdl_api_reference_manual/html/index.html)
+* [Peripheral Driver Library API Reference Manual](https://ifxsandbox.github.io/mtb-pdl-cat1/pdl_api_reference_manual/html/index.html)
 * [ModusToolbox Software Environment, Quick Start Guide, Documentation, and Videos](https://www.cypress.com/products/modustoolbox-software-environment)
 * [ModusToolbox Device Configurator Tool Guide](https://www.cypress.com/ModusToolboxDeviceConfig)
 * [AN210781 Getting Started with PSoC 6 MCU with Bluetooth Low Energy (BLE) Connectivity](http://www.cypress.com/an210781)
@@ -41,7 +41,7 @@ See the [PDL API Reference Manual Getting Started section](https://CYSB2.github.
 * [Cypress Semiconductor](http://www.cypress.com)
 
 ### Note
-New versions of PDL from 2.0 onwards will now be available in [mtb-pdl-cat1](https://CYSB2.github.io/mtb-pdl-cat1/pdl_api_reference_manual/html/index.html) repo and [psoc6pdl](https://CYSB2.github.io/psoc6pdl/pdl_api_reference_manual/html/index.html) repo will no longer be updated in future.
+New versions of PDL from 2.0 onwards will now be available in [mtb-pdl-cat1](https://ifxsandbox.github.io/mtb-pdl-cat1/pdl_api_reference_manual/html/index.html) repo and [psoc6pdl](https://CYSB2.github.io/psoc6pdl/pdl_api_reference_manual/html/index.html) repo will no longer be updated in future.
 
 ---
 © Cypress Semiconductor Corporation, 2020.
